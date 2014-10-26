@@ -4,14 +4,14 @@
 \contentsline {subsection}{\numberline {2.2}Evolution on branches}{3}
 \contentsline {subsection}{\numberline {2.3}Evolution on phylogenies}{4}
 \contentsline {subsection}{\numberline {2.4}Stretching branches}{4}
-\contentsline {subsection}{\numberline {2.5}Multiple traits}{4}
-\contentsline {section}{\numberline {3}Models of speciation-based evolution}{5}
-\contentsline {subsection}{\numberline {3.1}Evolution on phylogenies}{5}
-\contentsline {subsection}{\numberline {3.2}Speciation and phylogeny shape}{6}
-\contentsline {section}{\numberline {4}Comparing models}{6}
-\contentsline {subsection}{\numberline {4.1}Relating models to data}{6}
-\contentsline {subsection}{\numberline {4.2}Model likelihoods}{9}
-\contentsline {subsection}{\numberline {4.3}Empirical tests}{10}
-\contentsline {section}{\numberline {5}Software}{11}
-\contentsline {section}{\numberline {6}Conclusion}{12}
-\contentsline {section}{References}{13}
+\contentsline {subsection}{\numberline {2.5}Multiple traits}{5}
+\contentsline {section}{\numberline {3}Models of speciation-based evolution}{6}
+\contentsline {subsection}{\numberline {3.1}Evolution on phylogenies}{6}
+\contentsline {subsection}{\numberline {3.2}Speciation and phylogeny shape}{7}
+\contentsline {section}{\numberline {4}Comparing models}{7}
+\contentsline {subsection}{\numberline {4.1}Relating models to data}{7}
+\contentsline {subsection}{\numberline {4.2}Model likelihoods}{10}
+\contentsline {subsection}{\numberline {4.3}Empirical tests}{11}
+\contentsline {section}{\numberline {5}Software}{12}
+\contentsline {section}{\numberline {6}Conclusion}{13}
+\contentsline {section}{References}{14}
