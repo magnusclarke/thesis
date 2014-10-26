@@ -1,8 +1,413 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bartoszek et~al.(2012)Bartoszek, Pienaar, Mostad, Andersson, and
+  Hansen]{bartoszek_phylogenetic_2012}
+K.~Bartoszek, J.~Pienaar, P.~Mostad, S.~Andersson, and T.~F. Hansen.
+\newblock A phylogenetic comparative method for studying multivariate
+  adaptation.
+\newblock \emph{Journal of Theoretical Biology}, 314:\penalty0 204--215, Dec.
+  2012.
+\newblock ISSN 0022-5193.
+\newblock \doi{10.1016/j.jtbi.2012.08.005}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0022519312003918}.
+
+\bibitem[Blackburn et~al.(2013)Blackburn, Siler, Diesmos, {McGuire},
+  Cannatella, and Brown]{blackburn_adaptive_2013}
+D.~C. Blackburn, C.~D. Siler, A.~C. Diesmos, J.~A. {McGuire}, D.~C. Cannatella,
+  and R.~M. Brown.
+\newblock An adaptive radiation of frogs in a southeast asian island
+  archipelago.
+\newblock \emph{Evolution}, 67\penalty0 (9):\penalty0 2631–2646, 2013.
+\newblock ISSN 1558-5646.
+\newblock \doi{10.1111/evo.12145}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/evo.12145/abstract}.
+
+\bibitem[Blomberg et~al.(2003)Blomberg, Garland, and
+  Ives]{blomberg_testing_2003}
+S.~P. Blomberg, T.~Garland, and A.~R. Ives.
+\newblock Testing for phylogenetic signal in comparative data: Behavioral
+  traits are more labile.
+\newblock \emph{Evolution}, 57\penalty0 (4):\penalty0 717–745, 2003.
+\newblock ISSN 1558-5646.
+\newblock \doi{10.1111/j.0014-3820.2003.tb00285.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.0014-3820.2003.tb00285.x/abstract}.
+
+\bibitem[Burbrink et~al.(2012)Burbrink, Chen, Myers, Brandley, and
+  Pyron]{burbrink_evidence_2012}
+F.~T. Burbrink, X.~Chen, E.~A. Myers, M.~C. Brandley, and R.~A. Pyron.
+\newblock Evidence for determinism in species diversification and contingency
+  in phenotypic evolution during adaptive radiation.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  279\penalty0 (1748):\penalty0 4817--4826, 2012.
+\newblock \doi{10.1098/rspb.2012.1669}.
+\newblock URL
+  \url{http://rspb.royalsocietypublishing.org/content/279/1748/4817.abstract}.
+
+\bibitem[Charmantier et~al.(2008)Charmantier, {McCleery}, Cole, Perrins, Kruuk,
+  and Sheldon]{charmantier_adaptive_2008}
+A.~Charmantier, R.~H. {McCleery}, L.~R. Cole, C.~Perrins, L.~E.~B. Kruuk, and
+  B.~C. Sheldon.
+\newblock Adaptive phenotypic plasticity in response to climate change in a
+  wild bird population.
+\newblock \emph{Science}, 320\penalty0 (5877):\penalty0 800--803, May 2008.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.1157174}.
+\newblock URL \url{http://www.sciencemag.org/content/320/5877/800}.
+\newblock {PMID:} 18467590.
+
+\bibitem[Cooper et~al.(2010)Cooper, Jetz, and
+  Freckleton]{cooper_phylogenetic_2010}
+N.~Cooper, W.~Jetz, and R.~P. Freckleton.
+\newblock Phylogenetic comparative approaches for studying niche conservatism.
+\newblock \emph{Journal of Evolutionary Biology}, 23\penalty0 (12):\penalty0
+  2529–2539, 2010.
+\newblock ISSN 1420-9101.
+\newblock \doi{10.1111/j.1420-9101.2010.02144.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2010.02144.x/abstract}.
+
+\bibitem[Crisp and Cook(2012)]{crisp_phylogenetic_2012}
+M.~D. Crisp and L.~G. Cook.
+\newblock Phylogenetic niche conservatism: what are the underlying evolutionary
+  and ecological causes?
+\newblock \emph{New Phytologist}, 196\penalty0 (3):\penalty0 681–694, 2012.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/j.1469-8137.2012.04298.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2012.04298.x/abstract}.
+
+\bibitem[Davies et~al.(2012)Davies, Cooper, Diniz-Filho, Thomas, and
+  Meiri]{davies_using_2012}
+T.~J. Davies, N.~Cooper, J.~A.~F. Diniz-Filho, G.~H. Thomas, and S.~Meiri.
+\newblock Using phylogenetic trees to test for character displacement: a model
+  and an example from a desert mammal community.
+\newblock \emph{Ecology}, 93\penalty0 (sp8):\penalty0 S44--S51, Feb. 2012.
+\newblock ISSN 0012-9658.
+\newblock \doi{10.1890/11-0400.1}.
+\newblock URL \url{http://www.esajournals.org/doi/abs/10.1890/11-0400.1}.
+
+\bibitem[Felsenstein(1985)]{felsenstein_phylogenies_1985}
+J.~Felsenstein.
+\newblock Phylogenies and the comparative method.
+\newblock \emph{The American Naturalist}, 125\penalty0 (1):\penalty0 1--15,
+  Jan. 1985.
+\newblock ISSN 0003-0147.
+\newblock URL \url{http://www.jstor.org/stable/2461605}.
+\newblock {ArticleType:} research-article / Full publication date: Jan., 1985 /
+  Copyright © 1985 The University of Chicago.
+
+\bibitem[Felsenstein(2008)]{felsenstein_comparative_2008}
+J.~Felsenstein.
+\newblock Comparative methods with sampling error and {Within‐Species}
+  variation: Contrasts revisited and revised.
+\newblock \emph{The American Naturalist}, 171\penalty0 (6):\penalty0 713--725,
+  June 2008.
+\newblock ISSN 0003-0147.
+\newblock \doi{10.1086/523971}.
+\newblock URL \url{http://www.jstor.org/stable/10.1086/587525}.
+\newblock {ArticleType:} research-article / Full publication date: June 2008 /
+  Copyright © 2008 The University of Chicago.
+
+\bibitem[Freckleton et~al.(2002)Freckleton, Harvey, and
+  Pagel]{freckleton_phylogenetic_2002}
+R.~Freckleton, P.~Harvey, and M.~Pagel.
+\newblock Phylogenetic analysis and comparative data: A test and review of
+  evidence.
+\newblock \emph{The American Naturalist}, 160\penalty0 (6):\penalty0 712--726,
+  Dec. 2002.
+\newblock ISSN 0003-0147, 1537-5323.
+\newblock \doi{10.1086/343873}.
+\newblock URL
+  \url{http://www.jstor.org/discover/10.1086/343873?uid=3738032\&uid=2\&uid=4\&sid=21102745774493}.
+
+\bibitem[Freckleton(2009)]{freckleton_seven_2009}
+R.~P. Freckleton.
+\newblock The seven deadly sins of comparative analysis.
+\newblock \emph{Journal of Evolutionary Biology}, 22\penalty0 (7):\penalty0
+  1367–1375, 2009.
+\newblock ISSN 1420-9101.
+\newblock \doi{10.1111/j.1420-9101.2009.01757.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2009.01757.x/abstract}.
+
+\bibitem[Freckleton and Harvey(2006)]{freckleton_detecting_2006}
+R.~P. Freckleton and P.~H. Harvey.
+\newblock Detecting non-brownian trait evolution in adaptive radiations.
+\newblock \emph{{PLoS} Biol}, 4\penalty0 (11):\penalty0 e373, 2006.
+\newblock \doi{10.1371/journal.pbio.0040373}.
+\newblock URL \url{http://dx.doi.org/10.1371\%2Fjournal.pbio.0040373}.
+
+\bibitem[Freckleton and Jetz(2009)]{freckleton_space_2009}
+R.~P. Freckleton and W.~Jetz.
+\newblock Space versus phylogeny: disentangling phylogenetic and spatial
+  signals in comparative data.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  276\penalty0 (1654):\penalty0 21--30, Jan. 2009.
+\newblock ISSN 0962-8452, 1471-2954.
+\newblock \doi{10.1098/rspb.2008.0905}.
+\newblock URL \url{http://rspb.royalsocietypublishing.org/content/276/1654/21}.
+\newblock {PMID:} 18796398.
+
+\bibitem[Futuyma(2010)]{futuyma_evolutionary_2010}
+D.~J. Futuyma.
+\newblock Evolutionary constraint and ecological consequences.
+\newblock \emph{Evolution}, 64\penalty0 (7):\penalty0 1865–1884, 2010.
+\newblock ISSN 1558-5646.
+\newblock \doi{10.1111/j.1558-5646.2010.00960.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.00960.x/abstract}.
+
+\bibitem[Garland et~al.(2005)Garland, Bennett, and
+  Rezende]{garland_phylogenetic_2005}
+T.~Garland, A.~F. Bennett, and E.~L. Rezende.
+\newblock Phylogenetic approaches in comparative physiology.
+\newblock \emph{Journal of Experimental Biology}, 208\penalty0 (16):\penalty0
+  3015--3035, 2005.
+\newblock \doi{10.1242/jeb.01745}.
+\newblock URL \url{http://jeb.biologists.org/content/208/16/3015.abstract}.
+
+\bibitem[Hansen(1997)]{hansen_stabilizing_1997}
+T.~F. Hansen.
+\newblock Stabilizing selection and the comparative analysis of adaptation.
+\newblock \emph{Evolution}, 51\penalty0 (5):\penalty0 1341--1351, Oct. 1997.
+\newblock ISSN 0014-3820.
+\newblock \doi{10.2307/2411186}.
+\newblock URL \url{http://www.jstor.org/stable/2411186}.
+\newblock {ArticleType:} research-article / Full publication date: Oct., 1997 /
+  Copyright © 1997 Society for the Study of Evolution.
+
+\bibitem[Hansen and Bartoszek(2012)]{hansen_interpreting_2012}
+T.~F. Hansen and K.~Bartoszek.
+\newblock Interpreting the evolutionary regression: The interplay between
+  observational and biological errors in phylogenetic comparative studies.
+\newblock \emph{Systematic Biology}, 61\penalty0 (3):\penalty0 413--425, May
+  2012.
+\newblock ISSN 1063-5157, 1076-{836X}.
+\newblock \doi{10.1093/sysbio/syr122}.
+\newblock URL \url{http://sysbio.oxfordjournals.org/content/61/3/413}.
+\newblock {PMID:} 22213708.
+
+\bibitem[Hansen and Houle(2008)]{hansen_measuring_2008}
+T.~F. Hansen and D.~Houle.
+\newblock Measuring and comparing evolvability and constraint in multivariate
+  characters.
+\newblock \emph{Journal of Evolutionary Biology}, 21\penalty0 (5):\penalty0
+  1201–1219, 2008.
+\newblock ISSN 1420-9101.
+\newblock \doi{10.1111/j.1420-9101.2008.01573.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2008.01573.x/abstract}.
+
+\bibitem[Hansen and Orzack(2005)]{hansen_assessing_2005}
+T.~F. Hansen and S.~H. Orzack.
+\newblock Assessing current adaptation and phylogenetic inertia as explanations
+  of trait evolution:the need for controlled comparisons.
+\newblock \emph{Evolution}, 59\penalty0 (10):\penalty0 2063–2072, 2005.
+\newblock ISSN 1558-5646.
+\newblock \doi{10.1111/j.0014-3820.2005.tb00917.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.0014-3820.2005.tb00917.x/abstract}.
+
+\bibitem[Harmon et~al.(2008)Harmon, Weir, Brock, Glor, and
+  Challenger]{harmon_geiger:_2008}
+L.~J. Harmon, J.~T. Weir, C.~D. Brock, R.~E. Glor, and W.~Challenger.
+\newblock {GEIGER:} investigating evolutionary radiations.
+\newblock \emph{Bioinformatics}, 24\penalty0 (1):\penalty0 129--131, 2008.
+\newblock \doi{10.1093/bioinformatics/btm538}.
+\newblock URL
+  \url{http://bioinformatics.oxfordjournals.org/content/24/1/129.abstract}.
+
+\bibitem[Harmon et~al.(2010)Harmon, Losos, Jonathan~Davies, Gillespie,
+  Gittleman, Bryan~Jennings, Kozak, {McPeek}, Moreno-Roark, Near, Purvis,
+  Ricklefs, Schluter, Schulte~{II}, Seehausen, Sidlauskas, Torres-Carvajal,
+  Weir, and Mooers]{harmon_early_2010}
+L.~J. Harmon, J.~B. Losos, T.~Jonathan~Davies, R.~G. Gillespie, J.~L.
+  Gittleman, W.~Bryan~Jennings, K.~H. Kozak, M.~A. {McPeek}, F.~Moreno-Roark,
+  T.~J. Near, A.~Purvis, R.~E. Ricklefs, D.~Schluter, J.~A. Schulte~{II},
+  O.~Seehausen, B.~L. Sidlauskas, O.~Torres-Carvajal, J.~T. Weir, and A.~�.
+  Mooers.
+\newblock {EARLY} {BURSTS} {OF} {BODY} {SIZE} {AND} {SHAPE} {EVOLUTION} {ARE}
+  {RARE} {IN} {COMPARATIVE} {DATA}.
+\newblock \emph{Evolution}, 64\penalty0 (8):\penalty0 2385–2396, 2010.
+\newblock ISSN 1558-5646.
+\newblock \doi{10.1111/j.1558-5646.2010.01025.x}.
+\newblock URL \url{http://dx.doi.org/10.1111/j.1558-5646.2010.01025.x}.
+
+\bibitem[Ingram(2010)]{ingram_speciation_2010}
+T.~Ingram.
+\newblock Speciation along a depth gradient in a marine adaptive radiation.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences}, page
+  rspb20101127, Sept. 2010.
+\newblock ISSN 0962-8452, 1471-2954.
+\newblock \doi{10.1098/rspb.2010.1127}.
+\newblock URL
+  \url{http://rspb.royalsocietypublishing.org/content/early/2010/08/31/rspb.2010.1127}.
+\newblock {PMID:} 20810434.
+
+\bibitem[King et~al.(2012)King, Butler, and King]{king_package_2012}
+A.~A. King, M.~A. Butler, and M.~A.~A. King.
+\newblock Package ‘ouch’.
+\newblock 2012.
+\newblock URL
+  \url{ftp://ftp.math.ethz.ch/sfs/Software/R-CRAN/web/packages/ouch/ouch.pdf}.
+
+\bibitem[Losos(2008)]{losos_phylogenetic_2008}
+J.~B. Losos.
+\newblock Phylogenetic niche conservatism, phylogenetic signal and the
+  relationship between phylogenetic relatedness and ecological similarity among
+  species.
+\newblock \emph{Ecology Letters}, 11\penalty0 (10):\penalty0 995–1003, 2008.
+\newblock ISSN 1461-0248.
+\newblock \doi{10.1111/j.1461-0248.2008.01229.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2008.01229.x/abstract}.
+
+\bibitem[Mooers et~al.(1999)Mooers, Vamosi, and Schluter]{mooers_using_1999}
+A.~�. Mooers, S.~M. Vamosi, and D.~Schluter.
+\newblock Using phylogenies to test macroevolutionary hypotheses of trait
+  evolution in cranes (gruinae).
+\newblock \emph{The American Naturalist}, 154\penalty0 (2):\penalty0 249--259,
+  Aug. 1999.
+\newblock ISSN 0003-0147.
+\newblock \doi{10.1086/an.1999.154.issue-2}.
+\newblock URL \url{http://www.jstor.org/stable/10.1086/303226}.
+\newblock {ArticleType:} brief-report / Full publication date: August 1999 /
+  Copyright © 1999 The University of Chicago.
+
+\bibitem[Pagel(1997)]{pagel_inferring_1997}
+M.~Pagel.
+\newblock Inferring evolutionary processes from phylogenies.
+\newblock \emph{Zoologica Scripta}, 26\penalty0 (4):\penalty0 331–348, 1997.
+\newblock ISSN 1463-6409.
+\newblock \doi{10.1111/j.1463-6409.1997.tb00423.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1463-6409.1997.tb00423.x/abstract}.
+
+\bibitem[Pagel(1999)]{pagel_inferring_1999}
+M.~Pagel.
+\newblock Inferring the historical patterns of biological evolution.
+\newblock \emph{Nature}, 401\penalty0 (6756):\penalty0 877--884, Oct. 1999.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/44766}.
+\newblock URL
+  \url{http://www.nature.com/nature/journal/v401/n6756/full/401877a0.html}.
+
+\bibitem[Pennell and Harmon(2013)]{pennell_integrative_2013}
+M.~W. Pennell and L.~J. Harmon.
+\newblock An integrative view of phylogenetic comparative methods: connections
+  to population genetics, community ecology, and paleobiology.
+\newblock \emph{Annals of the New York Academy of Sciences}, 1289\penalty0
+  (1):\penalty0 90–105, 2013.
+\newblock ISSN 1749-6632.
+\newblock \doi{10.1111/nyas.12157}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/nyas.12157/abstract}.
+
+\bibitem[Price(1997)]{price_correlated_1997}
+T.~Price.
+\newblock Correlated evolution and independent contrasts.
+\newblock \emph{Philosophical Transactions of the Royal Society of London.
+  Series B: Biological Sciences}, 352\penalty0 (1352):\penalty0 519--529, Apr.
+  1997.
+\newblock ISSN 0962-8436, 1471-2970.
+\newblock \doi{10.1098/rstb.1997.0036}.
+\newblock URL
+  \url{http://rstb.royalsocietypublishing.org/content/352/1352/519}.
+\newblock {PMID:} 9163825.
+
+\bibitem[Pybus and Harvey(2000)]{pybus_testing_2000}
+O.~G. Pybus and P.~H. Harvey.
+\newblock Testing macro–evolutionary models using incomplete molecular
+  phylogenies.
+\newblock \emph{Proceedings of the Royal Society of London. Series B:
+  Biological Sciences}, 267\penalty0 (1459):\penalty0 2267--2272, Nov. 2000.
+\newblock ISSN 0962-8452, 1471-2954.
+\newblock \doi{10.1098/rspb.2000.1278}.
+\newblock URL
+  \url{http://rspb.royalsocietypublishing.org/content/267/1459/2267}.
+\newblock {PMID:} 11413642.
+
+\bibitem[Rabosky(2009)]{rabosky_heritability_2009}
+D.~L. Rabosky.
+\newblock Heritability of extinction rates links diversification patterns in
+  molecular phylogenies and fossils.
+\newblock \emph{Systematic Biology}, 58\penalty0 (6):\penalty0 629--640, Dec.
+  2009.
+\newblock ISSN 1063-5157, 1076-{836X}.
+\newblock \doi{10.1093/sysbio/syp069}.
+\newblock URL \url{http://sysbio.oxfordjournals.org/content/58/6/629}.
+
+\bibitem[Revell(2012)]{revell_phytools:_2012}
+L.~J. Revell.
+\newblock phytools: an r package for phylogenetic comparative biology (and
+  other things).
+\newblock \emph{Methods in Ecology and Evolution}, 3\penalty0 (2):\penalty0
+  217–223, 2012.
+\newblock ISSN 2041-{210X}.
+\newblock \doi{10.1111/j.2041-210X.2011.00169.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2011.00169.x/abstract}.
+
+\bibitem[Revell et~al.(2012)Revell, Mahler, Peres-Neto, and
+  Redelings]{revell_new_2012}
+L.~J. Revell, D.~L. Mahler, P.~R. Peres-Neto, and B.~D. Redelings.
+\newblock A {NEW} {PHYLOGENETIC} {METHOD} {FOR} {IDENTIFYING} {EXCEPTIONAL}
+  {PHENOTYPIC} {DIVERSIFICATION}.
+\newblock \emph{Evolution}, 66\penalty0 (1):\penalty0 135–146, 2012.
+\newblock ISSN 1558-5646.
+\newblock \doi{10.1111/j.1558-5646.2011.01435.x}.
+\newblock URL \url{http://dx.doi.org/10.1111/j.1558-5646.2011.01435.x}.
+
+\bibitem[Schoener(2011)]{schoener_newest_2011}
+T.~W. Schoener.
+\newblock The newest synthesis: Understanding the interplay of evolutionary and
+  ecological dynamics.
+\newblock \emph{Science}, 331\penalty0 (6016):\penalty0 426--429, Jan. 2011.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.1193954}.
+\newblock URL \url{http://www.sciencemag.org/content/331/6016/426}.
+\newblock {PMID:} 21273479.
+
+\bibitem[Siepielski et~al.(2009)Siepielski, {DiBattista}, and
+  Carlson]{siepielski_its_2009}
+A.~M. Siepielski, J.~D. {DiBattista}, and S.~M. Carlson.
+\newblock It’s about time: the temporal dynamics of phenotypic selection in
+  the wild.
+\newblock \emph{Ecology Letters}, 12\penalty0 (11):\penalty0 1261–1276, 2009.
+\newblock ISSN 1461-0248.
+\newblock \doi{10.1111/j.1461-0248.2009.01381.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2009.01381.x/abstract}.
+
+\bibitem[Thomas and Freckleton(2012)]{thomas_motmot:_2012}
+G.~H. Thomas and R.~P. Freckleton.
+\newblock {MOTMOT:} models of trait macroevolution on trees.
+\newblock \emph{Methods in Ecology and Evolution}, 3\penalty0 (1):\penalty0
+  145–151, 2012.
+\newblock ISSN 2041-{210X}.
+\newblock \doi{10.1111/j.2041-210X.2011.00132.x}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2011.00132.x/abstract}.
+
+\bibitem[{YODER} et~al.(2010){YODER}, {CLANCEY}, {DES}~{ROCHES}, {EASTMAN},
+  {GENTRY}, {GODSOE}, {HAGEY}, {JOCHIMSEN}, {OSWALD}, {ROBERTSON}, {SARVER},
+  {SCHENK}, {SPEAR}, and {HARMON}]{yoder_ecological_2010}
+J.~B. {YODER}, E.~{CLANCEY}, S.~{DES}~{ROCHES}, J.~M. {EASTMAN}, L.~{GENTRY},
+  W.~{GODSOE}, T.~J. {HAGEY}, D.~{JOCHIMSEN}, B.~P. {OSWALD}, J.~{ROBERTSON},
+  B.~A.~J. {SARVER}, J.~J. {SCHENK}, S.~F. {SPEAR}, and L.~J. {HARMON}.
+\newblock Ecological opportunity and the origin of adaptive radiations.
+\newblock \emph{Journal of Evolutionary Biology}, 23\penalty0 (8):\penalty0
+  1581–1596, 2010.
+\newblock ISSN 1420-9101.
+\newblock \doi{10.1111/j.1420-9101.2010.02029.x}.
+\newblock URL \url{http://dx.doi.org/10.1111/j.1420-9101.2010.02029.x}.
 
 \end{thebibliography}

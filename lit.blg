@@ -7,33 +7,22 @@ White space in argument---line 71 of file lit.aux
 I'm skipping whatever remains of this command
 The style file: abbrvnat.bst
 Database file #1: lit.bib
-Warning--I didn't find a database entry for "blomberg_testing_2003"
-Warning--I didn't find a database entry for "cooper_phylogenetic_2010"
-Warning--I didn't find a database entry for "losos_phylogenetic_2008"
-Warning--I didn't find a database entry for "garland_phylogenetic_2005"
-Warning--I didn't find a database entry for "harmon_early_2010"
-Warning--I didn't find a database entry for "felsenstein_phylogenies_1985"
-Warning--I didn't find a database entry for "pagel_inferring_1997"
-Warning--I didn't find a database entry for "pagel_inferring_1999"
+Repeated entry---line 1365 of file lit.bib
+ : @article{siepielski_its_2009
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1385 of file lit.bib
+ : @article{schoener_newest_2011
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1503 of file lit.bib
+ : @article{revell_phytools:_2012
+ :                               ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "thomas_comparative_2006"
 Warning--I didn't find a database entry for "o'meara_testing_2006"
-Warning--I didn't find a database entry for "thomas_motmot:_2012"
-Warning--I didn't find a database entry for "revell_new_2012"
-Warning--I didn't find a database entry for "hansen_stabilizing_1997"
-Warning--I didn't find a database entry for "hansen_assessing_2005"
-Warning--I didn't find a database entry for "hansen_measuring_2008"
-Warning--I didn't find a database entry for "hansen_interpreting_2012"
-Warning--I didn't find a database entry for "mooers_using_1999"
-Warning--I didn't find a database entry for "bartoszek_phylogenetic_2012"
 Warning--I didn't find a database entry for "bokma_detection_2008"
-Warning--I didn't find a database entry for "ingram_speciation_2010"
-Warning--I didn't find a database entry for "rabosky_heritability_2009"
-Warning--I didn't find a database entry for "pybus_testing_2000"
-Warning--I didn't find a database entry for "freckleton_detecting_2006"
-Warning--I didn't find a database entry for "price_correlated_1997"
 Warning--I didn't find a database entry for "harvey_comparative_2000"
-Warning--I didn't find a database entry for "freckleton_space_2009"
-Warning--I didn't find a database entry for "pennell_integrative_2013"
 Warning--I didn't find a database entry for "felsenstein_maximum-likelihood_1973"
 Warning--I didn't find a database entry for "pagel_seeking_1993"
 Warning--I didn't find a database entry for "cheverud_quantitative_1985"
@@ -41,31 +30,16 @@ Warning--I didn't find a database entry for "diaz-uriarte_testing_1996"
 Warning--I didn't find a database entry for "lynch_methods_1991"
 Warning--I didn't find a database entry for "hadfield_general_2010"
 Warning--I didn't find a database entry for "ives_within-species_2007"
-Warning--I didn't find a database entry for "felsenstein_comparative_2008"
 Warning--I didn't find a database entry for "garland_introduction_1999"
 Warning--I didn't find a database entry for "bjorklund_are_1997"
 Warning--I didn't find a database entry for "harvey_phylogenetic_1998"
 Warning--I didn't find a database entry for "martins_phylogenies_1997"
-Warning--I didn't find a database entry for "blackburn_adaptive_2013"
-Warning--I didn't find a database entry for "freckleton_seven_2009"
 Warning--I didn't find a database entry for "posada_model_2004"
-Warning--I didn't find a database entry for "freckleton_phylogenetic_2002"
-Warning--I didn't find a database entry for "burbrink_evidence_2012"
-Warning--I didn't find a database entry for "crisp_phylogenetic_2012"
-Warning--I didn't find a database entry for "yoder_ecological_2010"
-Warning--I didn't find a database entry for "siepielski_its_2009"
-Warning--I didn't find a database entry for "futuyma_evolutionary_2010"
 Warning--I didn't find a database entry for "team_r:_2005"
 Warning--I didn't find a database entry for "paradis_ape:_2004"
 Warning--I didn't find a database entry for "hackathon_phylobase:_2011"
-Warning--I didn't find a database entry for "harmon_geiger:_2008"
 Warning--I didn't find a database entry for "caper"
-Warning--I didn't find a database entry for "king_package_2012"
-Warning--I didn't find a database entry for "revell_phytools:_2012"
-Warning--I didn't find a database entry for "schoener_newest_2011"
 Warning--I didn't find a database entry for "uyeda_the_2011"
-Warning--I didn't find a database entry for "charmantier_adaptive_2008"
-Warning--I didn't find a database entry for "davies_using_2012"
 Warning--I didn't find a database entry for "gomulkiewicz_demographic_2009"
 Warning--I didn't find a database entry for "freckleton_relating_2008"
 Warning--I didn't find a database entry for "fitzjohn_quantitative_2010"
@@ -75,45 +49,46 @@ Warning--I didn't find a database entry for "ingram_niche_2009"
 Warning--I didn't find a database entry for "etienne_diversity_2012"
 Warning--I didn't find a database entry for "raboski_equilibrium_2010"
 Warning--I didn't find a database entry for "slater_fitting_2012"
-You've used 0 entries,
+Warning--empty journal in king_package_2012
+You've used 38 entries,
             2773 wiz_defined-function locations,
-            658 strings with 5984 characters,
-and the built_in function-call counts, 33 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 10
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+            950 strings with 16457 characters,
+and the built_in function-call counts, 21319 in all, are:
+= -- 2087
+> -- 1177
+< -- 23
++ -- 401
+- -- 363
+* -- 1951
+:= -- 3370
+add.period$ -- 232
+call.type$ -- 38
+change.case$ -- 235
+chr.to.int$ -- 38
+cite$ -- 77
+duplicate$ -- 800
+empty$ -- 1583
+format.name$ -- 419
+if$ -- 4422
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 8
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 38
+newline$ -- 316
+num.names$ -- 152
+pop$ -- 296
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 197
 quote$ -- 0
-skip$ -- 1
+skip$ -- 615
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 1084
+swap$ -- 78
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 418
+warning$ -- 1
+while$ -- 169
 width$ -- 0
-write$ -- 7
-(There was 1 error message)
+write$ -- 735
+(There were 4 error messages)
